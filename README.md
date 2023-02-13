@@ -12,13 +12,37 @@
 
 ---
 
-### 👨‍💻 About Me:
+<!-- ### 💻 About Me:
+ -->
+<!-- ### I'm an aspirant Software Developer from Japan.
 
-I'm an aspirant Software Developer from Japan.
+#### - 👨‍🎓 I’m currently doing a full-stack bootcamp but will finish soon!
+#### - 👀 I’m interested in playing games, watching movies and doing some programming.
+#### - 💡 I also like exploring new things and trying them out. -->
 
-- 👨‍🎓 I’m currently doing a full-stack bootcamp but will finish soon!
-- 👀 I’m interested in playing games, watching movies and doing some programming.
-- 💡 I also like exploring new things and trying them out.
+```javascript
+const aboutYamaki09👨‍💻 = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["web dev", "tech", "games"],
+    skills: [],
+    technologies: {
+        backEnd: {
+            js: ["Node", "Express"],
+            python: ["DjangoRestFramework"]
+        },
+        frontEnd: {
+            js: ["React.js", "JavaScript", "HTML", "CSS"]
+        },
+        devOps: ["Render"],
+        databases: ["Postgresql"],
+        misc: ["JWT Token", "Material UI", "Bootstrap"],
+    },
+    architecture: ["Responsive applications", "Single page application"],
+    currentFocus: "Learning cloud",
+    funFact: "Panic first, then calm down, then slowly solve the problem".
+};
+```
+[![Yamaki09's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yamaki09&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 Yamaki09/Yamaki09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
