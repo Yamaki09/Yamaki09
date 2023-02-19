@@ -37,8 +37,8 @@ const aboutYamaki09👨‍💻 = {
         databases: ["Postgresql"],
         misc: ["JWT Token", "Material UI", "Bootstrap"],
     },
-    architecture: ["Responsive applications", "Single page application"],
-    currentFocus: "Learning cloud",
+    architecture: ["Responsive applications", "Single page application", "web API"],
+    currentFocus: "Improving solo project", "Learning cloud"
     funFact: "Panic first, then calm down, then slowly solve the problem".
 };
 ```
