@@ -24,7 +24,7 @@
 const aboutYamaki09👨‍💻 = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech", "games"],
-    skills: [],
+    skills: ["Problem-Solving", "Flexibility", "Active Learning", "Collaboration Skill", "Communication Skill", "Leadership Experience"],
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
