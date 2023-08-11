@@ -38,7 +38,7 @@ const aboutYamaki09👨‍💻 = {
         misc: ["JWT Token", "Material UI", "Bootstrap"],
     },
     architecture: ["Responsive applications", "Single page application", "web API"],
-    currentFocus: "Improving solo project", "Learning cloud",
+    currentFocus: "learning PHP",
     funFact: "Panic first, then calm down, then slowly solve the problem".
 };
 ```
