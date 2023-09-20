@@ -38,8 +38,7 @@ const aboutYamaki09👨‍💻 = {
         misc: ["JWT Token", "Material UI", "Bootstrap"],
     },
     architecture: ["Responsive applications", "Single page application", "web API"],
-    currentFocus: "learning PHP",
-    funFact: "Panic first, then calm down, then slowly solve the problem".
+    currentFocus: "learning PHP with Google Cloud Platform",
 };
 ```
 [![Yamaki09's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yamaki09&show_icons=true&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
